@@ -9,23 +9,8 @@ body {
     font-family: 'Times New Roman', Times, serif;
     line-height: 1.6;
 }
-header p {
-font-size: 1.2rem;
 
-animation: rotate3D 9s linear infinite;
-}
 
-@keyframes rotate3D {
-0% {
-transform: rotateY(0deg);
-}
-50% {
-transform: rotateY(180deg);
-}
-100% {
-transform: rotateY(360deg);
-}
-}
 /* Global styles */
 header {
     background-color: #01161f;
