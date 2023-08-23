@@ -27,15 +27,6 @@ border-radius: 0px;
 background-color:rgb(249, 5, 78)
 }
 
-@keyframes rotateText {
-0% {
-transform: rotate(0deg);
-}
-100% {
-transform: rotate(360deg);
-}
-}
-
 header h1 {
 animation: pulsate 2s infinite;
 }
