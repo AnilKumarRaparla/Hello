@@ -35,7 +35,7 @@ animation: pulsate 2s infinite;
 nav {
     position: sticky;
     top: 0;
-    background-color: #f5580a; /* Match the background color of your header */
+    background-color: #130701; /* Match the background color of your header */
     z-index: 100; /* Ensure the navigation bar stays above other content */
 }
 
